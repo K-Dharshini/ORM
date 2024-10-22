@@ -2,7 +2,7 @@
 ## Date: 
 
 ## AIM
-To develop a Django application to store and retrieve data from a bank loan database using Object Relational Mapping (ORM).
+To develop a Django application to store and retrieve data from a Book database using Object Relational Mapping (ORM).
 
 ## DESIGN STEPS
 
@@ -44,4 +44,4 @@ class EmployeeAdmin(admin.ModelAdmin):
 ![image](https://github.com/user-attachments/assets/67bbd830-9a07-49dc-8158-ff585fb55bcc)
 
 ## RESULT
-Thus the program for creating a database using ORM hass been executed successfully.
+Thus the program for creating a database using ORM has been executed successfully.
